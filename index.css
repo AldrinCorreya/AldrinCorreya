@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dp {
+    width: 150px;
+    border: 3px solid #9dc6d8;
+}
+.b-c {
+    width: 430px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 2px solid #d8cefe;
+    display: flex;
+    justify-content: space-between;
+    background: #c6cccc;
+    border-bottom: 6px solid #d8cefe;
+}
+.text {
+    text-align: center;
+    color: #2b2839;
+}
+
+
